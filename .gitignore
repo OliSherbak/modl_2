@@ -1,0 +1,17 @@
+env/
+venv/
+*.env
+*.pyenv
+
+pycache/
+*.py[cod]
+
+.idea/
+.vscode/
+*.iml
+
+*.log
+*.bak
+*.swp
+
+.DS_Store  # macOS
